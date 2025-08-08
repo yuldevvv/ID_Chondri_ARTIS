@@ -1,5 +1,4 @@
 ## Fish meal
-#dari mana IDN mengimport fishmeal? --> list negara, grafik x = negara y= volume
 
 
 library(tidytext)
